@@ -8,7 +8,7 @@ I'm a code sorcerer who weaves code like a wizard casts spells. I love games and
     - [Luna Tea Napkin](https://github.com/LunaTechsDev/LunaTeaNapkin)
     - [Luna Website](https://github.com/LunaTechsDev/lunatechsdev.github.io) & [Server](https://github.com/LunaTechsDev/luna-server)
     - & more!
-  - [LTN Games](https://ltngames.xyz) - A small indie game development studio creating games and resources for everyone. Well. in my spare time, which has resulted in no games and only plugins for RPG Maker MV 
+  - [LTN Games](https://ltngames.xyz) - A small indie game development studio creating games and resources for everyone. While initally started as a hobby project by myself. it has since grown to be a bit larger with some close friends and family who joined, so, I guess you could say its a family indie game studio.
   - [FenixEngine](https://fenixengine.xyz) an open source project created in hopes to make plugin development easier and with ES6 modules. This project will soon be merged with the many projects over at [@LunaTechsDev](https://github.com/LunaTechsDev)
 
 
